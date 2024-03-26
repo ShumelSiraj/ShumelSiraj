@@ -19,6 +19,24 @@
   <a href="https://instagram.com/i.shumelkhan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.shumelkhan" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">Education</h3>
+<p align="center">
+  <strong>Master of Science in Data Science</strong><br>
+  The George Washington University, Washington, DC, USA<br>
+  Jan 2022 - Jan 2024<br>
+  <strong>Key Coursework:</strong> Machine Learning, Big Data Analytics, Statistical Models<br>
+  <strong>Capstone Project:</strong> [Title of Your Project](link-to-project) - A comprehensive analysis of [brief project overview].<br><br>
+
+  <strong>Master of Business Administration in International Business</strong><br>
+  Jamia Millia Islamia University, India<br>
+  Aug 2017 - Sept 2019<br><br>
+
+  <strong>Bachelor of Science Honors in Mathematics</strong><br>
+  Aligarh Muslim University, India<br>
+  Aug 2013 - Nov 2016
+</p>
+
+
 <h3 align="center">Coding Languages:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
@@ -48,6 +66,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shumelsiraj&show_icons=true&locale=en" alt="shumelsiraj" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shumelsiraj" alt="shumelsiraj" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shumelsiraj&show_icons=true&locale=en&theme=YOUR_THEME" alt="shumelsiraj's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shumelsiraj&theme=YOUR_THEME" alt="shumelsiraj's GitHub Streak" />
 </div>
