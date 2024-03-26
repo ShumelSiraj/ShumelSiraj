@@ -19,13 +19,6 @@
   <a href="https://instagram.com/i.shumelkhan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.shumelkhan" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Education</h3>
-<p align="center">
-  <strong>Master of Science in Data Science</strong><br>
-  The George Washington University, Washington, DC, USA<br>
-  Jan 2022 - Jan 2024<br>
-</p>
-
 <h3 align="center">Coding Languages:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
