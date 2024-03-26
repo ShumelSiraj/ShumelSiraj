@@ -24,20 +24,7 @@
   <strong>Master of Science in Data Science</strong><br>
   The George Washington University, Washington, DC, USA<br>
   Jan 2022 - Jan 2024<br>
-  <strong>Key Coursework:</strong> Machine Learning, Big Data Analytics, Statistical Models<br>
-  <strong>Capstone Project:</strong> [Title of Your Project](link-to-project) - A comprehensive analysis of [brief project overview].<br><br>
 </p>
-<p align="center">
-  <strong>Master of Business Administration in International Business</strong><br>
-  Jamia Millia Islamia University, India<br>
-  Aug 2017 - Sept 2019<br><br>
-</p>
-<p align="center">
-  <strong>Bachelor of Science Honors in Mathematics</strong><br>
-  Aligarh Muslim University, India<br>
-  Aug 2013 - Nov 2016
-</p>
-
 
 <h3 align="center">Coding Languages:</h3>
 <p align="center">
