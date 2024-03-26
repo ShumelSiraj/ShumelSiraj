@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  📫 How to reach me: <a href="mailto:shumelsiraj@gwu.edu">shumelsiraj@gwu.edu</a>
+  📫 How to reach me: <a href="mailto:shumelsiraj@gwu.edu">shumelsiraj@gwmail.gwu.edu</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
