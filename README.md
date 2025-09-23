@@ -56,8 +56,8 @@
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://github.com/)  
-✉️ **youremail@example.com**
+
+✉️ **sirajshumel@gmail.com**
 
 ---
 
