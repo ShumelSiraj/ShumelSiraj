@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+Cybersecurity;Cloud+%26+AI+Explorer;Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Cyber+Security+%7C+Data+Scientist;Cloud+%26+AI+Explorer;Open+to+Collaboration!" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Shumel Siraj
