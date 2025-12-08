@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+Data+Engineer;Cloud+%26+Cybersecurity+Explorer;Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+Cybersecurity;Cloud+%26+AI+Explorer;Open+to+Collaboration!" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Shumel Siraj
 
-🎓 **Data Scientist | Data Engineer | Analyst**  
+🎓 **Data Scientist | Cybersecurity | Analyst**  
 💻 Passionate about **AI, Cloud, and Cybersecurity**  
 📍 Based in Washington, D.C.  
 
@@ -57,7 +57,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
 
-✉️ **sirajshumel@gmail.com**
+✉️ **Khanshumel08@gmail.com**
 
 ---
 
