@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Shumel Siraj
 
-🎓 **  Cybersecurity | Data Scientist |  **  
+🎓 **Cybersecurity | Data Scientist |**  
 💻 Passionate about **AI, Cloud, and Cybersecurity**  
 📍 Based in Washington, D.C.  
 
